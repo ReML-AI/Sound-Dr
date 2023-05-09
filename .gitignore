@@ -1,0 +1,9 @@
+build
+dist
+*.egg-info
+**/*.pyc
+.ipynb_checkpoints
+wandb
+sounddr_data/cough
+custom_dataset
+public_dataset
