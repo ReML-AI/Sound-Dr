@@ -3,6 +3,7 @@ This project implements the baseline and benchmarks on Sound-Dr Dataset.
 
 ### Dataset
 Link: https://drive.google.com/file/d/1qWN23E7hdGfa_lNVg3Y2COl75DZXWjBg/view?usp=sharing
+Password: FPT_Software
 
 Download and place Sound-Dr dataset in ./sounddr_data/ directory
 
